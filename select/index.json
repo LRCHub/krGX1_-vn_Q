@@ -1,0 +1,169 @@
+{
+  "version": 1,
+  "base_track": "太陽",
+  "base_artist": "ヨルシカ",
+  "createdAt": "2026-03-23T22:21:12.203775Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "太陽",
+      "artist": "Kobukuro",
+      "has_synced": false,
+      "path": "select/01_太陽_Kobukuro.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "太陽",
+      "artist": "コブクロ",
+      "has_synced": false,
+      "path": "select/02_太陽_コブクロ.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "神×太陽×サマーパーティ",
+      "artist": "芹澤 優",
+      "has_synced": true,
+      "path": "select/03_神×太陽×サマーパーティ_芹澤_優.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "神×太陽×サマーパーティ",
+      "artist": "芹澤優",
+      "has_synced": true,
+      "path": "select/04_神×太陽×サマーパーティ_芹澤優.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "太陽",
+      "artist": "邱振哲",
+      "has_synced": false,
+      "path": "select/05_太陽_邱振哲.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "太陽",
+      "artist": "邱振哲",
+      "has_synced": true,
+      "path": "select/06_太陽_邱振哲.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "太陽",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/07_太陽_BUMP_OF_CHICKEN.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "太陽",
+      "artist": "吉野裕行 come across アレルヤ・ハプティズム",
+      "has_synced": false,
+      "path": "select/08_太陽_吉野裕行_come_across_アレルヤ・ハプティズム.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "太陽",
+      "artist": "陳綺貞",
+      "has_synced": true,
+      "path": "select/09_太陽_陳綺貞.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "太陽 = Sun",
+      "artist": "赤い鳥",
+      "has_synced": false,
+      "path": "select/10_太陽_=_Sun_赤い鳥.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "太陽",
+      "artist": "赤い鳥",
+      "has_synced": false,
+      "path": "select/11_太陽_赤い鳥.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "太陽",
+      "artist": "Cheer Chen",
+      "has_synced": true,
+      "path": "select/12_太陽_Cheer_Chen.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "太陽",
+      "artist": "Christine Fan",
+      "has_synced": true,
+      "path": "select/13_太陽_Christine_Fan.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "太陽 (Live 版)",
+      "artist": "Cheer Chen",
+      "has_synced": true,
+      "path": "select/14_太陽_(Live_版)_Cheer_Chen.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "太陽 - MONSTER LIVE版",
+      "artist": "Shunza",
+      "has_synced": false,
+      "path": "select/15_太陽_-_MONSTER_LIVE版_Shunza.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "太陽 [吉他版] (Live 版)",
+      "artist": "Cheer Chen",
+      "has_synced": true,
+      "path": "select/16_太陽_[吉他版]_(Live_版)_Cheer_Chen.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "太陽",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/17_太陽_BUMP_OF_CHICKEN.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "太陽",
+      "artist": "森山直太朗",
+      "has_synced": false,
+      "path": "select/18_太陽_森山直太朗.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "太陽",
+      "artist": "ヨルシカ",
+      "has_synced": false,
+      "path": "select/pl_01_太陽_ヨルシカ.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "太陽",
+      "artist": "ヨルシカ",
+      "has_synced": false,
+      "path": "select/localdb_01_太陽_ヨルシカ.txt",
+      "repo_name": "Qgj3xHRlGr8"
+    }
+  ]
+}
